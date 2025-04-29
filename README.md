@@ -1,11 +1,8 @@
 # Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="21">
 
-<a href="[https://www.linkedin.com/in/muhammadrusqi/]"></a>
+<a href="[https://www.linkedin.com/in/jauzazchri/]"></a>
 # About myself
-I'm a proactive mathematics student with a passion for data analysis and machine learning. 
-As the founder of Radiance Visual, I've managed 30+ successful video projects. 
-My leadership experience in student organizations and award-winning short film events has honed my project management skills and teamwork. 
-Skilled in Python, JavaScript, and Adobe Creative Suite, I'm always open to collaborations and innovative projects. Let's connect!
+I'm a Fresh Graduate of Electrical Engineering student who always follows and studies technological developments in the world. I'm also enthusiastic Fresh Graduate with a strong focus on IoT technologies and systems integration. Experienced in designing and implementing IoT-based solutions using sensors, microcontrollers (Arduino, Raspberry Pi), and wireless communication protocols (Wi-Fi, Bluetooth, MQTT). Proficient in programming languages such as Python and C, with hands-on experience in developing smart devices and monitoring systems. Passionate about leveraging IoT to create innovative and efficient solutions for modern challenges.
 
 ### Github Statistic
 <p align="left">
@@ -17,7 +14,7 @@ Skilled in Python, JavaScript, and Adobe Creative Suite, I'm always open to coll
 
 # Tech Stack
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img  src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-<img src="https://img.shields.io/badge/Python-ffd340?style=for-the-badge&logo=python&logoColor=black"> <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"> 
+<img src="https://img.shields.io/badge/Python-ffd340?style=for-the-badge&logo=python&logoColor=black">
 
 # Languages
 - <strong>Full professional proficiency:</Intermediate> English
